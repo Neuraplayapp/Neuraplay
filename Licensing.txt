@@ -1,0 +1,123 @@
+Copyright (c) 2025 Neuraplay
+
+This Software License Agreement (“Agreement”) governs the use of Neuraplay (“Software”), developed and owned by [Your Legal Name or Company Name].
+
+By downloading, accessing, or using the Software, you (“User”) agree to be bound by the terms of this Agreement.
+
+1. LICENSE GRANT
+Subject to payment of all applicable fees, Neuraplay grants the User a limited, non-exclusive, non-transferable, revocable license to access and use the Software for personal or internal business purposes.
+
+2. RESTRICTIONS
+The User may NOT:
+- Copy, distribute, resell, or sublicense the Software or any part of it;
+- Modify, reverse engineer, decompile, or disassemble the Software;
+- Use the Software to build or train competing products or AI models;
+- Share access credentials or license keys with unauthorized users;
+- Use the Software in violation of any applicable law or regulation.
+
+3. OWNERSHIP
+All rights, title, and interest in the Software, including but not limited to source code, design, content, AI models, and all intellectual property, remain the sole property of Neuraplay.
+
+4. TERM AND TERMINATION
+This license is effective until terminated. Neuraplay may terminate this Agreement at any time if the User breaches any term. Upon termination, the User must cease all use and destroy all copies of the Software.
+
+5. NO WARRANTIES
+The Software is provided “AS IS,” without warranty of any kind. Neuraplay disclaims all warranties, express or implied, including merchantability, fitness for a particular purpose, and non-infringement.
+
+6. LIMITATION OF LIABILITY
+In no event shall Neuraplay be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the Software.
+
+7. PAYMENT AND ACCESS
+Access to the Software is granted only after full payment of applicable license fees. Unauthorized access or use constitutes a violation of this Agreement and may result in legal action.
+
+8. GOVERNING LAW
+This Agreement shall be governed by the laws of [Your Country or State], without regard to conflict of laws principles.
+
+9. CONTACT
+For questions or license inquiries, contact: [Your Email or Company Website]
+🧩 You Can Customize:
+Swap [Your Country or State] with your actual legal jurisdiction
+
+Replace [Your Legal Name or Company Name] with your name or business entity
+
+Add specific terms for:
+
+Monthly billing/SaaS if it’s a subscription
+
+GDPR or privacy if handling user data
+
+Service levels if you're offering uptime guarantees
+
+✅ Next Steps
+Copy the license into a LICENSE.txt file in your repo or root directory
+
+Include a Terms of Use or EULA page on your website (I can help write that too)
+
+Optionally consult a lawyer if you're scaling or launching internationally
+
+Would you like me to include terms for SaaS billing, trials, or online privacy (GDPR/CCPA) in this license? Or format it as a Terms of Service for your website?
+
+
+
+You said:
+The legal jurisdiction is kazakhstan and it will be monthly billing or free under specific circumstances which i decide. The contents are reviewied by neuropsychological experts and clinical psychologists but that does not mean it is liable to "gurantaees"
+
+ChatGPT said:
+Perfect — thanks for that context. Based on your details, here is a refined, legally-aligned commercial license (Kazakhstan jurisdiction, monthly billing, optionally free access, no guarantees). You can use this as your:
+
+LICENSE.txt (for downloads)
+
+Or your Terms of Service for a web-based SaaS version
+
+📄 Neuraplay Software License Agreement (Kazakhstan, v1.0)
+vbnet
+Copy
+Edit
+Copyright (c) 2025 Neuraplay
+
+This Software License Agreement ("Agreement") governs the access and use of Neuraplay ("Software"), developed and owned by [Your Name or Legal Entity], operating under the laws of the Republic of Kazakhstan.
+
+By accessing, downloading, or using the Software, you ("User") agree to be bound by the terms of this Agreement.
+
+---
+
+1. LICENSE GRANT
+Neuraplay grants the User a limited, non-transferable, non-exclusive, revocable license to access and use the Software strictly for personal or internal educational purposes, subject to payment of applicable subscription fees or approved free access at Neuraplay’s sole discretion.
+
+2. SUBSCRIPTION AND BILLING
+Access to the Software is provided on a recurring subscription basis. Users agree to be billed monthly unless otherwise agreed. Neuraplay reserves the right to adjust pricing and access tiers at any time, with prior notice.
+
+Free access may be granted on a case-by-case basis, including for educational, research, or accessibility purposes, entirely at the discretion of Neuraplay.
+
+3. RESTRICTIONS
+The User shall not:
+- Copy, modify, distribute, sublicense, or resell the Software or its components;
+- Reverse engineer, decompile, or disassemble any part of the Software;
+- Use the Software to build, train, or enhance competing products, platforms, or AI systems;
+- Circumvent access controls or licensing restrictions;
+- Use the Software in any unlawful manner or in violation of local or international regulations.
+
+4. OWNERSHIP
+All rights, title, and interest in and to the Software—including its design, codebase, modular systems, AI components, and content—are and shall remain the sole property of Neuraplay. No rights are transferred to the User beyond those expressly granted in this Agreement.
+
+5. EXPERT REVIEW AND LIMITATION OF LIABILITY
+The Software's content and features may be informed by neuropsychological and clinical psychological professionals. However, Neuraplay does not guarantee the accuracy, completeness, or clinical appropriateness of any information provided.
+
+The Software is **not a substitute for medical advice, diagnosis, or treatment**. Use is at the User’s own risk.
+
+6. NO WARRANTIES
+The Software is provided "AS IS" and "AS AVAILABLE," without warranties of any kind, express or implied. Neuraplay expressly disclaims all warranties, including but not limited to fitness for a particular purpose, merchantability, and non-infringement.
+
+7. LIMITATION OF LIABILITY
+Under no circumstances shall Neuraplay or its affiliates be liable for any indirect, incidental, special, or consequential damages, including but not limited to loss of data, revenue, or use, arising from or related to the use of the Software.
+
+8. TERMINATION
+Neuraplay may suspend or terminate User access at any time if terms are violated. Upon termination, the User must immediately cease all use and destroy any copies in their possession.
+
+9. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the Republic of Kazakhstan. Any disputes shall be subject to the exclusive jurisdiction of the courts of Kazakhstan.
+
+10. CONTACT
+For licensing, support, or legal inquiries, contact:
+Neuraplay
+www.neuraplay.biz 
